@@ -1,0 +1,28 @@
+page-welcome {
+	.video {
+		background-image: url('../assets/imgs/video1.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+
+	}
+.photo {
+		background-image: url('../assets/imgs/photo4.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+
+	}
+
+	.son {
+		background-image: url('../assets/imgs/son2.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+
+	}
+
+.swiper-pagination-bullet-active{
+	background: white;
+}
+}
